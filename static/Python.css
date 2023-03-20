@@ -1,0 +1,173 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+}
+.concent {
+    width: 100%;
+    background-color: #F5F6FA;
+}
+
+.concent_tatlo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 500px;
+    margin-left: 5%;
+}
+
+.concent_left {
+    width: 70%;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 1%;
+}
+
+.concent_right {
+    width: 29%;
+    height: 500px;
+    margin-top: 20px;
+    background-color:white ;
+}
+
+.concent_leftone {
+    background-color: #C0EDF2;
+    width: 100%;
+    height: 220px;
+    border-radius: 1%;
+}
+
+.span_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.span_color {
+    color: red;
+    margin-right: 100px;
+}
+
+.concent_leftone h2 {
+    margin-left: 20px;
+}
+
+.span_t {
+    height: 80px;
+}
+
+.span_t h4 {
+    margin: 5px 20px;
+}
+
+.concent_lfetimg {
+    width: 70%;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.concent_lfetimg img {
+    width: 20px;
+    height: 20px;
+}
+
+.concent_tidu {
+    height: 20px;
+    margin: 5px 2px 5px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.yuan {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    margin-right: 5px;
+    background-color: #5D7EE0;
+}
+.concent_lefttow{
+    width: 100%;
+    height: 250px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+}
+.concent_lefttow h2{
+    margin-left: 20px;
+}
+.span_h{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin-left: 20px;
+}
+.span_h1{
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin-left: 20px;
+}
+.span_h2{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin-left: 20px;
+}
+.h4{
+    margin-left: 20px;
+    
+}
+.span_h4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    width: 600px;
+    margin-left: 20px;
+}
+.concent_right span{
+   margin-left: 2%;
+}
+.concent_right img{
+    width: 96%;
+    height: 200px;
+    margin: 20px 2%;
+}
+.span_right{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin-left: 2%;
+}
+.span_right1{
+    display: flex;
+    width: 140px;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin-left: 2%;
+}
+.h41{
+    margin: 5px 2%;
+}
+.h2{
+    margin: 15px 0;
+}
+.span_right3{
+    display: flex;
+    width: 320px;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin-left: 2%;
+}
